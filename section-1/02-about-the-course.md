@@ -45,7 +45,4 @@ End to End DevOps Implementation on a E-Commerce project.
 39. GitHub Actions setup for a micro service of the project
 40. CI/CD for the project
 41. GitHub Action with Argo CD for end to end CI/CD
-42. Resume preparation for the project
-43. Day to day tasks for the project in the resume
-44. Interview questions for the project
-45. Key takeaways of the project.
+    
