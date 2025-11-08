@@ -2,7 +2,7 @@
 
 On a high level, the following topics are covered in the course on a Real Time multi microservice architectured E-commerce application.
 
-End to End DevOps Implementation on a E-Commerce project with Resume preparation and Interview Q&A.
+End to End DevOps Implementation on a E-Commerce project.
 
 1. Introduction to the project
 2. A detailed overview of the project
